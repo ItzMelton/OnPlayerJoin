@@ -30,8 +30,7 @@ Location: `TShock/OnJoin.json`
 You may customize these settings to your preference.                         
 ```json
 {
-  "Settings": {
-    "Enable": true,
+  "Enable": true,
     "JoinSettings": {
       "EnableJoinMessage": true,
       "EnableLeaveMessage": true,
