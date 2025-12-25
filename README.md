@@ -13,11 +13,11 @@ Custom Join/Leave message for TShock Terraria servers
 ## Configs
 `Enabled`: Enables or disables the plugin.
 
-`EnableJoinMessage`: Enable the custom join message, true or false.
-`EnableLeaveMessage`: Enable the custom leave message, true or false.
+`EnableJoinMessage`: Enable the custom join message, true or false.       
+`EnableLeaveMessage`: Enable the custom leave message, true or false.        
 
-`Join`: Custom join message
-`Left`: Custom leave message
+`Join`: Custom join message.        
+`Left`: Custom leave message.          
 
 **Format**
 
