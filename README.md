@@ -21,6 +21,10 @@ Custom Join/Leave message for TShock Terraria servers
 
 **Format**
 
+|   Format    |   Information    |
+|---------|:-------:|
+| {0}     |  PlayerName    |
+
 **Default Config Setting**                         
 Location: `TShock/OnJoin.json`                        
 You may customize these settings to your preference.                         
