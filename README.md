@@ -30,16 +30,14 @@ Location: `TShock/OnJoin.json`
 You may customize these settings to your preference.                         
 ```json
 {
-  "Enable": true,
+    "Enable": true,
     "JoinSettings": {
-      "EnableJoinMessage": true,
-      "EnableLeaveMessage": true,
-      "Join": "{0} has joined the server!",
-      "Left": "{0} has left the server!"
+        "EnableJoinMessage": true,
+        "EnableLeaveMessage": true,e        "Join": "{0} has joined the server!"
+        "Left": "{0} has left the server!"
     }
-  },
-  "HelpFormat": {
-    "{0}": "PlayerName"
-  }
+    "HelpFormat": {
+        "{0}": "PlayerName"
+    }
 }
 ```
