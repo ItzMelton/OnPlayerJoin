@@ -33,7 +33,8 @@ You may customize these settings to your preference.
     "Enable": true,
     "JoinSettings": {
         "EnableJoinMessage": true,
-        "EnableLeaveMessage": true,e        "Join": "{0} has joined the server!"
+        "EnableLeaveMessage": true,
+        "Join": "{0} has joined the server!"
         "Left": "{0} has left the server!"
     }
     "HelpFormat": {
