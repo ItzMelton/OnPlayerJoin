@@ -19,13 +19,13 @@ Custom Join/Leave message for TShock Terraria servers
 `Join`: Custom join message.        
 `Left`: Custom leave message.          
 
-**Format**
+### Format
 
 |   Format    |   Information    |
 |---------|:-------:|
 | {0}     |  PlayerName    |
 
-**Default Config Setting**                         
+## Default Config Setting                       
 Location: `TShock/OnJoin.json`                        
 You may customize these settings to your preference.                         
 ```json
