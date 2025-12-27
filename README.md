@@ -26,7 +26,7 @@ Custom Join/Leave message for TShock Terraria servers
 | {0}     |  PlayerName    |
 
 ## Default Config Setting                       
-Location: `TShock/OnPlayerJoin.json`                        
+Location: `TShock/PlayerJoin.json`                        
 You may customize these settings to your preference.                         
 ```json
 {
