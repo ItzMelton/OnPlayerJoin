@@ -2,7 +2,7 @@
 Custom Join/Leave message for TShock Terraria servers
 
 ## Installation
-1. Download the `Anticrash.dll` file.
+1. Download the `OnPlayerJoin.dll` file.
 2. Put the `.dll` file inside of `/ServerPlugins/`
 3. Stop and rerun the server.
 
