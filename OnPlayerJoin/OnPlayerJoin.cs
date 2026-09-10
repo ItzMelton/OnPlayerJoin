@@ -10,7 +10,7 @@ namespace OnPlayerJoin
     public class OnPlayerJoin : TerrariaPlugin
     {
         public override string Name => "OnPlayerJoin";
-        public override Version Version => new Version(1, 0, 0);
+        public override Version Version => new Version(1, 0, 1);
         public override string Author => "Melton";
         public override string Description => "Custom join and leave message";
 
